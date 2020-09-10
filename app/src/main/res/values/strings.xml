@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MAKİNA DENETİM SİSTEMİ</string>
+    <string name="makina_adi_txt">Makina Adı :</string>
+    <string name="makina_adi">AKYAPAK ATA1283</string>
+    <string name="button_read">Makinamın Bilgilerini Getir</string>
+    <string name="int_bilgisi_text">Int</string>
+    <string name="decimal_bilgisi_text">Decimal</string>
+    <string name="bool_bilgisi_text">Bool</string>
+    <string name="decimal_bilgisi_sayisal">00.00</string>
+    <string name="int_bilgisi_sayisal">00.00</string>
+    <string name="bool_bilgisi_sayisal">None</string>
+</resources>
